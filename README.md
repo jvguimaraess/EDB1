@@ -121,6 +121,6 @@ edb1/
 
 ## 👤 Author
 
-**João Victor Guimarães**  
-BTI Student — UFRN/IMD  
+**João Vitor Guimarães**  
+Bachelor of Information Technology Student — IMD/UFRN
 Natal, RN — Brazil
