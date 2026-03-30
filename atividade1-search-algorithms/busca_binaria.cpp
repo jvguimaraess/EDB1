@@ -12,7 +12,7 @@ int busca(const int* arr, int tamanho, int chave) {
         }
 
         if (arr[meio] < chave) {
-            inicio = meio + 1;
+            inicio = meio + 1; 
         }
 
         else {
