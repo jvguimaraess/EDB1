@@ -16,6 +16,8 @@ This repository contains all activities and projects developed during the **Basi
 | # | Activity | Topics |
 |---|----------|--------|
 | 01 | [Empirical Analysis of Search Algorithms](./atividade1-search-algorithms/) | Sequential Search, Binary Search, O(n), O(log n) |
+| 02 | [TAD Conjunto com Array](./atividade2-conjunto-arrays/) | Abstract Data Types, Set, Dynamic Array, O(n) |
+
 
 ---
 
